@@ -206,24 +206,6 @@ with tab1:
         st.bar_chart(filtered_data.set_index('Ann')['Dur_sej_moy'])
 
 
-    # ------------
-
-    st.markdown("---")
-
-    fig = px.line(data, x='Ann', y='Dur_sej_moy', color='Loc', title='Évolution de la Durée Moyenne de Séjour par Type de Cancer')
-    fig.update_layout(height=600, width=800)
-    st.plotly_chart(fig)
-
-
-    # ------------
-
-    st.markdown("---")
-
-    # Graphique à barres empilées pour montrer la répartition des cas par type de cancer
-    fig = px.bar(data, x='Ann', y='Pat_chir_nbr', color='Loc', title='Répartition des Cas par Type de Cancer')
-    fig.update_layout(height=600, width=800)
-    st.plotly_chart(fig)   
-
 
 
     # ------------------------- Nombre Chirurgies / Nombre Patients ---------------------------
