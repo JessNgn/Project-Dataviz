@@ -1,0 +1,518 @@
+Ann;Loc;Dur_sej_moy;Dur_sej_max;Dur_sej_med;Dur_sej_min;Pat_chir_nbr;Pat_chir_pct;Hom_chir_nbr;Fem_chir_nbr
+Année;"Localisations cancéreuses";"Durée moyenne de séjour";"Durée maximum de séjour";"Durée médiane de séjour";"Durée minimum de séjour";"Nombre total de patients traités par chirurgie en MCO";"Répartition du nombre total de patients en %";"Nombre d'hommes traités par chirugie en MCO";"Nombre de femmes traités par chirurgie en MCO"
+2011;"Anus-Canal anal";10,7;239;4,0;0;958;.;375;583
+2011;"APPAREIL DIGESTIF";16,0;323;12,0;0;60422;16,0;33744;26678
+2011;"Appareil digestif sans précision";10,6;236;8,0;0;1798;.;975;823
+2011;"APPAREIL MANQUANT";6,3;13;7,0;2;4;0,0;4;.
+2011;"APPAREIL NON ATTRIBUABLE";9,8;256;6,0;0;4010;1,1;2167;1843
+2011;"APPAREIL RESPIRATOIRE ET AUTRES THORAX";11,8;321;9,0;0;17556;4,7;12190;5366
+2011;"Appareil respiratoire/thorax sans précision";9,1;99;6,0;0;685;.;407;278
+2011;"Appareil urinaire sans précision";10,2;143;8,0;0;1009;.;771;238
+2011;"Cavité orale";13,2;158;9,0;0;2677;.;1918;759
+2011;"Col utérus";2,7;154;,0;0;10225;.;1;10224
+2011;Colon;15,1;227;12,0;0;28281;.;15050;13231
+2011;"Colon-Rectum-Anus sans précision";17,7;203;14,0;0;223;.;107;116
+2011;"Corps utérus";7,7;131;6,0;0;7207;.;1;7206
+2011;Estomac;18,7;289;15,0;0;4726;.;2907;1819
+2011;Foie;16,0;323;11,0;0;2555;.;1855;700
+2011;"Foie et voies biliaires sans précision";12,8;103;8,0;0;265;.;122;143
+2011;"Fosses nasales, sinus, oreille moy/int";6,6;93;4,0;0;936;.;655;281
+2011;"Glande endocrine sans précision";11,0;183;7,0;0;685;.;276;409
+2011;"GLANDES ENDOCRINES";5,0;368;3,0;0;9548;2,5;2755;6793
+2011;"Glandes salivaires";5,9;104;4,0;0;1194;.;694;500
+2011;HEMATOLOGIE;9,8;205;4,0;0;11053;2,9;6319;4734
+2011;"Hématologie sans précision";9,2;107;5,0;0;374;.;209;165
+2011;Hypopharynx;20,7;187;16,0;0;1326;.;1193;133
+2011;"Intestin grêle";17,9;137;13,0;0;1681;.;922;759
+2011;Langue;12,0;187;8,0;0;2271;.;1615;656
+2011;Larynx;21,2;189;17,0;0;2425;.;2163;262
+2011;"Leucémie aigue, autre";22,1;135;12,5;0;42;.;29;13
+2011;"Leucémie chronique ou non précisé, autre";11,5;77;6,0;0;154;.;90;64
+2011;"Leucémie lymphoïde aigue";28,1;104;26,5;0;78;.;44;34
+2011;"Leucémie lymphoïde, chronique ou non précisé";10,8;142;6,0;0;682;.;449;233
+2011;"Leucémie monocytaire aigue";20,0;92;6,5;1;8;.;5;3
+2011;"Leucémie monocytaire, chronique ou non précisé";17,3;74;8,0;0;21;.;11;10
+2011;"Leucémie myéloïde aigue";29,7;205;26,0;0;170;.;103;67
+2011;"Leucémie myéloïde, chronique ou non précisé";14,6;150;8,0;0;112;.;71;41
+2011;Lèvre;3,3;100;1,0;0;832;.;519;313
+2011;"Lymphome Hodgkinien";5,4;115;2,0;0;1514;.;862;652
+2011;"Lymphome non Hodgkinien";8,9;199;3,0;0;6632;.;3715;2917
+2011;"Maladie immunoproliférative maligne";12,5;112;7,0;0;219;.;119;100
+2011;"Maladie myéloproliférative et syndrome myélodysplasique";12,9;142;8,0;0;870;.;524;346
+2011;Médiastin;10,5;127;7,0;0;540;.;334;206
+2011;"Mélanome de la peau";2,7;141;1,0;0;8677;.;4145;4532
+2011;MÉSOTHÉLIOME;10,7;119;8,0;0;788;0,2;599;189
+2011;"METASTASES SANS PRIMITIF";8,6;271;5,0;0;1530;0,4;785;745
+2011;"Myélome multiple et tumeur maligne à plasmocytes";14,5;128;9,0;0;581;.;332;249
+2011;Nasopharynx;8,0;101;3,0;0;320;.;245;75
+2011;"Nerfs périphériques";6,9;120;4,0;0;170;.;93;77
+2011;OEIL;3,5;127;2,0;0;881;0,2;485;396
+2011;Oesophage;21,4;188;16,0;0;1702;.;1385;317
+2011;"ORGANES GENITAUX FEMININS";6,5;186;5,0;0;27624;7,3;6;27619
+2011;"Organes génitaux féminins sans précision";6,8;106;5,0;0;1155;.;2;1153
+2011;"ORGANES GENITAUX MASCULINS";7,5;173;7,0;0;40274;10,7;40273;1
+2011;"Organes génitaux masculins sans précision";4,2;53;2,0;0;133;.;133;.
+2011;Oropharynx;13,5;163;8,0;0;2287;.;1829;458
+2011;OS;9,2;204;5,0;0;2633;0,7;1454;1179
+2011;"Os, articulations, cartilage
+articulaire";;;;;2633;.;1454;1179
+2011;Ovaire;9,9;186;8,0;0;8128;.;2;8127
+2011;Pancréas;20,7;295;17,0;0;3918;.;2053;1865
+2011;PEAU;1,2;730;,0;0;73999;19,6;39710;34290
+2011;"Peau hors mélanome";1,0;730;,0;0;66103;.;36005;30099
+2011;Pénis;5,8;96;4,0;0;580;.;580;.
+2011;Péritoine-rétropéritoine;14,6;209;10,0;0;1475;.;553;922
+2011;"Pharynx, sans précision";19,2;130;14,0;0;223;.;185;38
+2011;Plèvre;10,7;127;8,0;0;469;.;286;183
+2011;Prostate;7,8;173;7,0;0;37091;.;37090;1
+2011;"Rectum - Jonction recto-sigmoïdienne";15,5;254;12,0;0;14636;.;8713;5923
+2011;Rein;9,7;186;8,0;0;10845;.;7299;3546
+2011;"SARCOME DE KAPOSI";11,9;161;4,5;0;71;0,0;52;19
+2011;SEIN;4,3;127;3,0;0;70441;18,7;624;69818
+2011;Surrénale;11,1;140;7,0;0;641;.;312;329
+2011;"SYSTÈME NERVEUX";12,5;293;8,0;0;6962;1,8;3983;2979
+2011;"Système nerveux central";12,7;293;9,0;0;6706;.;3843;2863
+2011;"Système nerveux sans précision";7,4;74;,0;0;90;.;50;40
+2011;Testicule;3,6;50;2,0;0;2509;.;2509;.
+2011;Thyroïde;4,1;368;3,0;0;8240;.;2173;6067
+2011;"TISSUS MOUS, NCA";6,1;204;3,0;0;3701;1,0;1887;1814
+2011;TOTAL;7,4;730;4,0;0;;;;
+2011;"Trachée, Bronches, Poumon";12,0;321;9,0;0;16096;.;11313;4783
+2011;VADS;12,8;189;7,0;0;14517;3,9;10832;3685
+2011;"VADS sans précision";6,8;185;4,0;0;1293;.;860;433
+2011;Vagin;7,5;69;3,5;0;307;.;.;307
+2011;Vessie;6,3;185;4,0;0;41249;.;33602;7647
+2011;"Voies bilaires";19,4;216;15,0;0;1311;.;648;663
+2011;"VOIES URINAIRES";7,0;186;4,0;0;53889;14,3;42136;11753
+2011;"Voies urinaires hautes";8,7;96;7,0;0;2147;.;1526;621
+2011;Vulve;6,9;112;4,0;0;1243;.;.;1243
+2012;"Anus-Canal anal";10,2;219;3,0;0;1014;.;416;598
+2012;"APPAREIL DIGESTIF";15,7;439;12,0;0;60739;16,1;34094;26645
+2012;"Appareil digestif sans précision";9,9;109;7,0;0;1887;.;1091;796
+2012;"APPAREIL MANQUANT";9,3;22;4,0;2;3;0,0;3;.
+2012;"APPAREIL NON ATTRIBUABLE";9,6;219;6,0;0;3882;1,0;2221;1661
+2012;"APPAREIL RESPIRATOIRE ET AUTRES THORAX";11,5;250;9,0;0;18120;4,8;12367;5753
+2012;"Appareil respiratoire/thorax sans précision";8,4;119;6,0;0;720;.;430;290
+2012;"Appareil urinaire sans précision";10,6;250;7,0;0;1095;.;855;240
+2012;"Cavité orale";13,7;258;10,0;0;2668;.;1902;766
+2012;"Col utérus";2,5;203;,0;0;10571;.;.;10571
+2012;Colon;14,9;439;11,0;0;28478;.;15070;13408
+2012;"Colon-Rectum-Anus sans précision";18,2;130;14,0;0;272;.;134;138
+2012;"Corps utérus";7,3;119;6,0;0;7305;.;1;7304
+2012;Estomac;18,1;219;14,0;0;4882;.;3020;1862
+2012;Foie;15,3;194;11,0;0;2661;.;2011;650
+2012;"Foie et voies biliaires sans précision";12,0;143;8,0;0;226;.;101;125
+2012;"Fosses nasales, sinus, oreille moy/int";6,1;177;4,0;0;914;.;623;291
+2012;"Glande endocrine sans précision";10,9;200;7,0;0;708;.;268;440
+2012;"GLANDES ENDOCRINES";4,8;200;3,0;0;9873;2,6;2787;7086
+2012;"Glandes salivaires";5,5;78;4,0;0;1108;.;647;461
+2012;HEMATOLOGIE;9,6;274;4,0;0;11141;3,0;6518;4623
+2012;"Hématologie sans précision";9,0;82;6,0;0;408;.;207;201
+2012;Hypopharynx;19,8;176;15,0;0;1313;.;1197;116
+2012;"Intestin grêle";17,3;229;13,0;0;1708;.;950;758
+2012;Langue;12,3;160;8,0;0;2267;.;1609;658
+2012;Larynx;20,5;473;17,0;0;2420;.;2172;248
+2012;"Leucémie aigue, autre";23,7;81;19,5;0;34;.;20;14
+2012;"Leucémie chronique ou non précisé, autre";11,1;122;6,0;0;131;.;80;51
+2012;"Leucémie lymphoïde aigue";25,1;122;19,0;0;68;.;37;31
+2012;"Leucémie lymphoïde, chronique ou non précisé";10,2;183;6,0;0;712;.;498;214
+2012;"Leucémie monocytaire aigue";29,2;60;29,5;1;6;.;3;3
+2012;"Leucémie monocytaire, chronique ou non précisé";15,3;56;9,0;0;25;.;21;4
+2012;"Leucémie myéloïde aigue";29,3;164;27,5;0;169;.;97;72
+2012;"Leucémie myéloïde, chronique ou non précisé";14,4;164;8,0;0;113;.;72;41
+2012;Lèvre;3,2;94;1,0;0;828;.;497;331
+2012;"Lymphome Hodgkinien";4,9;171;2,0;0;1604;.;915;689
+2012;"Lymphome non Hodgkinien";8,6;274;3,0;0;6488;.;3724;2764
+2012;"Maladie immunoproliférative maligne";9,9;65;5,0;0;280;.;146;134
+2012;"Maladie myéloproliférative et syndrome myélodysplasique";14,6;167;9,0;0;943;.;604;339
+2012;Médiastin;9,6;92;6,0;0;521;.;298;223
+2012;"Mélanome de la peau";2,6;147;1,0;0;8845;.;4314;4531
+2012;MÉSOTHÉLIOME;10,6;170;8,0;0;812;0,2;571;241
+2012;"METASTASES SANS PRIMITIF";7,7;133;5,0;0;1444;0,4;749;695
+2012;"Myélome multiple et tumeur maligne à plasmocytes";15,3;148;9,0;0;578;.;350;228
+2012;Nasopharynx;6,9;85;3,0;0;348;.;252;96
+2012;"Nerfs périphériques";6,3;76;4,0;0;171;.;80;91
+2012;OEIL;3,3;92;2,0;0;870;0,2;486;384
+2012;Oesophage;21,4;219;16,0;0;1642;.;1331;311
+2012;"ORGANES GENITAUX FEMININS";6,1;203;4,0;0;28016;7,4;1;28015
+2012;"Organes génitaux féminins sans précision";6,1;164;4,0;0;1231;.;.;1231
+2012;"ORGANES GENITAUX MASCULINS";7,4;191;6,0;0;36208;9,6;36208;.
+2012;"Organes génitaux masculins sans précision";4,3;56;2,0;0;138;.;138;.
+2012;Oropharynx;13,3;178;8,0;0;2295;.;1809;486
+2012;OS;8,7;296;5,0;0;2684;0,7;1481;1203
+2012;"Os, articulations, cartilage
+articulaire";;;;;2684;.;1481;1203
+2012;Ovaire;9,5;134;7,0;0;7996;.;.;7996
+2012;Pancréas;20,6;229;17,0;0;4032;.;2191;1841
+2012;PEAU;1,1;219;,0;0;75803;20,1;41041;34763
+2012;"Peau hors mélanome";0,8;219;,0;0;67782;.;37207;30576
+2012;Pénis;5,5;59;4,0;0;556;.;556;.
+2012;Péritoine-rétropéritoine;14,4;439;10,0;0;1412;.;519;893
+2012;"Pharynx, sans précision";22,8;135;18,0;0;226;.;197;29
+2012;Plèvre;11,1;85;8,0;0;445;.;277;168
+2012;Prostate;7,7;183;7,0;0;32954;.;32954;.
+2012;"Rectum - Jonction recto-sigmoïdienne";15,2;206;12,0;0;14250;.;8499;5751
+2012;Rein;9,6;271;8,0;0;10980;.;7323;3657
+2012;"SARCOME DE KAPOSI";8,4;89;2,0;0;72;0,0;57;15
+2012;SEIN;4,1;152;3,0;0;70870;18,8;627;70243
+2012;Surrénale;11,1;168;7,0;0;634;.;306;328
+2012;"SYSTÈME NERVEUX";12,1;296;8,0;0;6794;1,8;3803;2991
+2012;"Système nerveux central";12,3;296;8,0;0;6581;.;3697;2884
+2012;"Système nerveux sans précision";8,7;36;7,0;0;48;.;27;21
+2012;Testicule;3,4;191;2,0;0;2605;.;2605;.
+2012;Thyroïde;3,9;178;3,0;0;8548;.;2219;6329
+2012;"TISSUS MOUS, NCA";5,6;166;3,0;0;3806;1,0;1981;1825
+2012;TOTAL;7,2;473;4,0;0;;;;
+2012;"Trachée, Bronches, Poumon";11,8;250;9,0;0;16639;.;11496;5143
+2012;VADS;12,8;473;8,0;0;14355;3,8;10652;3703
+2012;"VADS sans précision";7,1;167;4,0;0;1317;.;872;445
+2012;Vagin;6,9;103;4,0;0;329;.;.;329
+2012;Vessie;6,2;250;4,0;0;41661;.;33853;7808
+2012;"Voies bilaires";18,7;133;15,0;0;1316;.;662;654
+2012;"VOIES URINAIRES";7,0;271;4,0;0;54641;14,5;42599;12042
+2012;"Voies urinaires hautes";8,7;127;7,0;0;2390;.;1728;662
+2012;Vulve;6,9;103;4,0;0;1268;.;.;1268
+2013;"Anus-Canal anal";10,5;132;3,0;0;1039;.;428;611
+2013;"APPAREIL DIGESTIF";15,5;394;12,0;0;60882;16,1;34257;26625
+2013;"Appareil digestif sans précision";9,9;158;7,0;0;1952;.;1094;858
+2013;"APPAREIL MANQUANT";10,5;20;8,5;5;4;0,0;3;1
+2013;"APPAREIL NON ATTRIBUABLE";9,2;146;6,0;0;3900;1,0;2197;1703
+2013;"APPAREIL RESPIRATOIRE ET AUTRES THORAX";11,2;302;8,0;0;18486;4,9;12477;6009
+2013;"Appareil respiratoire/thorax sans précision";8,9;133;7,0;0;750;.;427;323
+2013;"Appareil urinaire sans précision";10,0;118;7,0;0;1116;.;849;267
+2013;"Cavité orale";13,5;175;9,0;0;2539;.;1793;746
+2013;"Col utérus";2,4;183;,0;0;11087;.;.;11087
+2013;Colon;14,6;394;11,0;0;28404;.;15119;13285
+2013;"Colon-Rectum-Anus sans précision";18,3;112;14,0;0;271;.;135;136
+2013;"Corps utérus";7,2;216;6,0;0;7323;.;.;7323
+2013;Estomac;18,4;221;14,0;0;4751;.;2931;1820
+2013;Foie;15,7;240;11,0;0;2763;.;2049;714
+2013;"Foie et voies biliaires sans précision";14,6;365;8,0;0;234;.;105;129
+2013;"Fosses nasales, sinus, oreille moy/int";6,3;91;4,0;0;999;.;672;327
+2013;"Glande endocrine sans précision";10,0;272;5,0;0;720;.;268;452
+2013;"GLANDES ENDOCRINES";4,6;284;3,0;0;9869;2,6;2869;7000
+2013;"Glandes salivaires";5,4;91;4,0;0;1232;.;718;514
+2013;HEMATOLOGIE;9,6;394;4,0;0;11223;3,0;6589;4634
+2013;"Hématologie sans précision";9,1;137;5,0;0;440;.;234;206
+2013;Hypopharynx;20,8;147;15,0;0;1268;.;1122;146
+2013;"Intestin grêle";17,5;137;13,0;0;1697;.;936;761
+2013;Langue;12,1;204;8,0;0;2255;.;1595;660
+2013;Larynx;20,2;146;16,0;0;2270;.;2021;249
+2013;"Leucémie aigue, autre";21,0;63;14,0;0;33;.;16;17
+2013;"Leucémie chronique ou non précisé, autre";10,8;93;6,0;0;149;.;91;58
+2013;"Leucémie lymphoïde aigue";28,5;257;16,0;0;79;.;43;36
+2013;"Leucémie lymphoïde, chronique ou non précisé";9,9;394;5,0;0;711;.;484;227
+2013;"Leucémie monocytaire aigue";32,4;47;35,0;1;7;.;6;1
+2013;"Leucémie monocytaire, chronique ou non précisé";19,5;85;12,0;0;27;.;20;7
+2013;"Leucémie myéloïde aigue";29,8;115;29,5;0;160;.;101;59
+2013;"Leucémie myéloïde, chronique ou non précisé";14,4;61;8,0;0;145;.;98;47
+2013;Lèvre;3,2;71;1,0;0;781;.;482;299
+2013;"Lymphome Hodgkinien";5,1;337;2,0;0;1519;.;887;632
+2013;"Lymphome non Hodgkinien";8,3;269;3,0;0;6558;.;3807;2751
+2013;"Maladie immunoproliférative maligne";10,5;135;5,0;0;277;.;142;135
+2013;"Maladie myéloproliférative et syndrome myélodysplasique";14,6;133;9,0;0;933;.;548;385
+2013;Médiastin;8,8;111;6,0;0;444;.;258;186
+2013;"Mélanome de la peau";2,5;99;1,0;0;8767;.;4325;4442
+2013;MÉSOTHÉLIOME;10,4;106;8,0;0;854;0,2;598;256
+2013;"METASTASES SANS PRIMITIF";8,0;113;5,0;0;1440;0,4;722;718
+2013;"Myélome multiple et tumeur maligne à plasmocytes";15,7;111;10,0;0;605;.;362;243
+2013;Nasopharynx;7,2;220;3,0;0;328;.;230;98
+2013;"Nerfs périphériques";7,1;78;5,0;0;175;.;92;83
+2013;OEIL;3,3;86;2,0;0;875;0,2;485;390
+2013;Oesophage;21,2;221;15,5;0;1754;.;1447;307
+2013;"ORGANES GENITAUX FEMININS";5,9;216;4,0;0;28621;7,6;.;28621
+2013;"Organes génitaux féminins sans précision";6,6;153;4,0;0;1155;.;.;1155
+2013;"ORGANES GENITAUX MASCULINS";7,2;153;6,0;0;33871;9,0;33871;.
+2013;"Organes génitaux masculins sans précision";4,3;50;2,0;0;123;.;123;.
+2013;Oropharynx;14,0;284;8,0;0;2398;.;1894;504
+2013;OS;9,3;164;5,0;0;2606;0,7;1438;1168
+2013;"Os, articulations, cartilage
+articulaire";;;;;2606;.;1438;1168
+2013;Ovaire;8,9;118;7,0;0;8081;.;.;8081
+2013;Pancréas;20,3;373;17,0;0;3995;.;2166;1829
+2013;PEAU;1,0;258;,0;0;77259;20,5;41382;35877
+2013;"Peau hors mélanome";0,8;258;,0;0;69340;.;37545;31795
+2013;Pénis;5,4;111;3,0;0;621;.;621;.
+2013;Péritoine-rétropéritoine;14,1;200;10,0;0;1375;.;492;883
+2013;"Pharynx, sans précision";24,8;284;18,0;0;203;.;170;33
+2013;Plèvre;10,8;105;8,0;0;491;.;309;182
+2013;Prostate;7,6;144;6,0;0;30433;.;30433;.
+2013;"Rectum - Jonction recto-sigmoïdienne";14,9;240;12,0;0;14421;.;8599;5822
+2013;Rein;9,3;282;8,0;0;10990;.;7437;3553
+2013;"SARCOME DE KAPOSI";6,6;42;1,5;0;90;0,0;69;21
+2013;SEIN;3,9;133;3,0;0;70452;18,7;607;69845
+2013;Surrénale;11,0;82;7,0;0;614;.;307;307
+2013;"SYSTÈME NERVEUX";12,5;302;8,0;0;6874;1,8;3850;3024
+2013;"Système nerveux central";12,6;302;8,0;0;6668;.;3739;2929
+2013;"Système nerveux sans précision";12,0;95;8,0;0;37;.;22;15
+2013;Testicule;3,3;153;2,0;0;2730;.;2730;.
+2013;Thyroïde;3,7;284;3,0;0;8561;.;2304;6257
+2013;"TISSUS MOUS, NCA";6,1;209;3,0;0;3676;1,0;1915;1761
+2013;TOTAL;7,0;394;4,0;0;;;;
+2013;"Trachée, Bronches, Poumon";11,4;302;9,0;0;17035;.;11651;5384
+2013;VADS;12,8;284;7,0;0;14284;3,8;10564;3720
+2013;"VADS sans précision";7,6;140;4,0;0;1313;.;910;403
+2013;Vagin;7,5;137;3,0;0;310;.;.;310
+2013;Vessie;6,0;187;4,0;0;42484;.;34717;7767
+2013;"Voies bilaires";20,0;185;15,0;0;1273;.;634;639
+2013;"VOIES URINAIRES";6,7;282;4,0;0;55516;14,7;43585;11931
+2013;"Voies urinaires hautes";8,4;80;7,0;0;2425;.;1766;659
+2013;Vulve;6,9;111;4,0;0;1323;.;.;1323
+2014;"Anus-Canal anal";10,3;161;4,0;0;963;.;369;594
+2014;"APPAREIL DIGESTIF";15,1;321;11,0;0;60860;15,8;34179;26681
+2014;"Appareil digestif sans précision";9,3;159;7,0;0;1945;.;1065;880
+2014;"APPAREIL MANQUANT";13,5;19;15,0;5;4;0,0;2;2
+2014;"APPAREIL NON ATTRIBUABLE";9,4;208;5,0;0;3668;0,9;2137;1531
+2014;"APPAREIL RESPIRATOIRE ET AUTRES THORAX";11,0;308;8,0;0;19271;5,0;13069;6202
+2014;"Appareil respiratoire/thorax sans précision";9,5;156;6,0;0;663;.;374;289
+2014;"Appareil urinaire sans précision";9,6;99;7,0;0;1178;.;882;296
+2014;"Cavité orale";13,4;261;9,0;0;2545;.;1761;784
+2014;"Col utérus";2,2;167;,0;0;11127;.;.;11127
+2014;Colon;14,3;321;11,0;0;28594;.;15203;13391
+2016;"GLANDES ENDOCRINES";4,1;132;3,0;0;9812;2,4;2862;6950
+2014;"Colon-Rectum-Anus sans précision";18,2;118;14,0;0;230;.;105;125
+2014;"Corps utérus";6,8;144;5,0;0;7669;.;.;7669
+2014;Estomac;17,4;194;14,0;0;4559;.;2810;1749
+2014;Foie;16,3;197;11,0;0;2856;.;2129;727
+2014;"Foie et voies biliaires sans précision";11,4;85;8,0;0;265;.;143;122
+2014;"Fosses nasales, sinus, oreille moy/int";6,5;193;3,0;0;925;.;641;284
+2014;"Glande endocrine sans précision";10,9;250;7,0;0;738;.;292;446
+2014;"GLANDES ENDOCRINES";4,5;250;3,0;0;10285;2,7;2918;7367
+2014;"Glandes salivaires";5,2;85;4,0;0;1214;.;705;509
+2014;HEMATOLOGIE;9,3;205;4,0;0;11375;2,9;6677;4698
+2014;"Hématologie sans précision";7,6;171;5,0;0;444;.;234;210
+2014;Hypopharynx;21,1;208;16,0;0;1228;.;1091;137
+2014;"Intestin grêle";17,2;139;12,0;0;1654;.;897;757
+2014;Langue;11,5;261;7,0;0;2210;.;1533;677
+2014;Larynx;20,1;342;16,0;0;2258;.;1986;272
+2014;"Leucémie aigue, autre";13,2;59;8,0;0;38;.;24;14
+2014;"Leucémie chronique ou non précisé, autre";11,6;152;6,5;0;135;.;90;45
+2014;"Leucémie lymphoïde aigue";21,4;92;20,0;0;73;.;51;22
+2014;"Leucémie lymphoïde, chronique ou non précisé";9,9;162;6,0;0;770;.;523;247
+2014;"Leucémie monocytaire aigue";26,6;62;30,0;0;11;.;5;6
+2014;"Leucémie monocytaire, chronique ou non précisé";27,3;94;20,5;0;38;.;28;10
+2014;"Leucémie myéloïde aigue";27,2;152;24,0;0;158;.;84;74
+2014;"Leucémie myéloïde, chronique ou non précisé";14,8;99;8,0;0;122;.;86;36
+2014;Lèvre;2,7;66;1,0;0;746;.;458;288
+2014;"Lymphome Hodgkinien";5,1;99;2,0;0;1563;.;875;688
+2014;"Lymphome non Hodgkinien";8,3;205;3,0;0;6506;.;3805;2701
+2014;"Maladie immunoproliférative maligne";9,3;84;5,0;0;318;.;178;140
+2014;"Maladie myéloproliférative et syndrome myélodysplasique";13,3;187;8,0;0;1013;.;622;391
+2014;Médiastin;8,0;107;5,0;0;539;.;332;207
+2014;"Mélanome de la peau";2,4;208;1,0;0;9247;.;4577;4670
+2014;MÉSOTHÉLIOME;10,1;103;7,0;0;911;0,2;656;255
+2014;"METASTASES SANS PRIMITIF";8,2;108;5,0;0;1455;0,4;735;720
+2014;"Myélome multiple et tumeur maligne à plasmocytes";14,8;119;9,0;0;616;.;364;252
+2014;Nasopharynx;5,4;55;2,0;0;329;.;245;84
+2014;"Nerfs périphériques";6,7;61;4,0;0;155;.;69;86
+2014;OEIL;2,9;78;2,0;0;899;0,2;496;403
+2014;Oesophage;20,7;308;15,0;0;1829;.;1438;391
+2014;"ORGANES GENITAUX FEMININS";5,7;187;4,0;0;29063;7,5;.;29063
+2014;"Organes génitaux féminins sans précision";6,1;95;4,0;0;1024;.;.;1024
+2014;"ORGANES GENITAUX MASCULINS";7,0;295;6,0;0;33914;8,8;33913;1
+2014;"Organes génitaux masculins sans précision";3,6;37;2,0;0;133;.;133;.
+2014;Oropharynx;12,6;247;7,0;0;2307;.;1819;488
+2014;OS;9,6;158;5,0;0;2459;0,6;1393;1066
+2014;"Os, articulations, cartilage
+articulaire";;;;;2459;.;1393;1066
+2014;Ovaire;8,7;156;6,0;0;8311;.;.;8311
+2014;Pancréas;19,6;190;16,0;0;4026;.;2125;1901
+2014;PEAU;0,9;316;,0;0;82625;21,4;44643;37982
+2014;"Peau hors mélanome";0,7;316;,0;0;74259;.;40582;33677
+2014;Pénis;5,2;61;3,0;0;637;.;637;.
+2014;Péritoine-rétropéritoine;12,9;119;9,0;0;1399;.;527;872
+2014;"Pharynx, sans précision";23,0;193;19,0;0;171;.;139;32
+2014;Plèvre;11,2;102;8,0;0;452;.;289;163
+2014;Prostate;7,4;295;6,0;0;30606;.;30605;1
+2014;"Rectum - Jonction recto-sigmoïdienne";14,7;189;12,0;0;14121;.;8529;5592
+2014;Rein;8,8;178;7,0;0;11235;.;7583;3652
+2014;"SARCOME DE KAPOSI";8,2;70;3,5;0;88;0,0;68;20
+2014;SEIN;3,6;167;3,0;0;71510;18,5;621;70889
+2014;Surrénale;11,5;205;7,0;0;609;.;283;326
+2014;"SYSTÈME NERVEUX";12,4;234;8,0;0;6806;1,8;3854;2952
+2014;"Système nerveux central";12,5;234;8,0;0;6616;.;3767;2849
+2014;"Système nerveux sans précision";10,0;105;7,0;0;40;.;18;22
+2014;Testicule;3,1;167;2,0;0;2578;.;2578;.
+2014;Thyroïde;3,6;110;3,0;0;8955;.;2349;6606
+2014;"TISSUS MOUS, NCA";5,6;161;3,0;0;3734;1,0;1920;1814
+2014;TOTAL;6,7;342;4,0;0;;;;
+2014;"Trachée, Bronches, Poumon";11,2;308;8,0;0;17854;.;12229;5625
+2014;VADS;12,4;342;7,0;0;14029;3,6;10305;3724
+2014;"VADS sans précision";7,7;156;4,0;0;1246;.;867;379
+2014;Vagin;6,7;85;3,0;0;304;.;.;304
+2014;Vessie;5,8;281;4,0;0;43568;.;35427;8141
+2014;"Voies bilaires";18,4;159;14,0;0;1273;.;582;691
+2014;"VOIES URINAIRES";6,5;281;4,0;0;56863;14,7;44446;12417
+2014;"Voies urinaires hautes";8,0;117;6,0;0;2429;.;1783;646
+2014;Vulve;7,0;187;4,0;0;1330;.;.;1330
+2015;"Anus-Canal anal";9,8;227;3,0;0;1131;.;427;704
+2015;"APPAREIL DIGESTIF";14,7;416;11,0;0;61419;15,5;34458;26961
+2015;"Appareil digestif sans précision";9,7;164;7,0;0;2052;.;1147;905
+2015;"APPAREIL MANQUANT";1,0;1;1,0;1;3;0,0;1;2
+2015;"APPAREIL NON ATTRIBUABLE";9,1;267;5,0;0;3555;0,9;2054;1501
+2015;"APPAREIL RESPIRATOIRE ET AUTRES THORAX";10,6;266;8,0;0;19635;5,0;13018;6617
+2015;"Appareil respiratoire/thorax sans précision";9,2;101;6,0;0;693;.;391;302
+2015;"Appareil urinaire sans précision";9,5;192;6,0;0;1198;.;895;303
+2015;"Cavité orale";13,0;151;9,0;0;2607;.;1815;792
+2015;"Col utérus";2,0;351;,0;0;11290;.;.;11290
+2015;Colon;13,9;416;10,0;0;28429;.;14924;13505
+2015;"Colon-Rectum-Anus sans précision";17,9;227;13,0;0;238;.;117;121
+2015;"Corps utérus";6,5;128;5,0;0;7733;.;1;7732
+2015;Estomac;17,0;223;13,0;0;4730;.;2953;1777
+2015;Foie;15,3;239;11,0;0;2923;.;2186;737
+2015;"Foie et voies biliaires sans précision";12,6;81;8,0;0;258;.;121;137
+2015;"Fosses nasales, sinus, oreille moy/int";6,0;117;3,0;0;935;.;607;328
+2015;"Glande endocrine sans précision";10,5;159;7,0;0;677;.;287;390
+2015;"GLANDES ENDOCRINES";4,4;214;3,0;0;10174;2,6;2920;7254
+2015;"Glandes salivaires";5,4;113;4,0;0;1232;.;747;485
+2015;HEMATOLOGIE;9,2;317;3,0;0;11716;3,0;6808;4908
+2015;"Hématologie sans précision";8,5;244;5,0;0;494;.;268;226
+2015;Hypopharynx;20,9;240;16,0;0;1155;.;1020;135
+2015;"Intestin grêle";16,1;178;11,0;0;1822;.;1029;793
+2015;Langue;11,0;177;7,0;0;2266;.;1546;720
+2015;Larynx;21,2;346;17,0;0;2105;.;1862;243
+2015;"Leucémie aigue, autre";21,1;57;11,0;0;25;.;13;12
+2015;"Leucémie chronique ou non précisé, autre";11,6;81;6,0;0;126;.;76;50
+2015;"Leucémie lymphoïde aigue";25,5;278;17,0;0;70;.;35;35
+2015;"Leucémie lymphoïde, chronique ou non précisé";9,7;148;5,0;0;712;.;468;244
+2015;"Leucémie monocytaire aigue";19,4;48;15,5;2;9;.;3;6
+2015;"Leucémie monocytaire, chronique ou non précisé";15,5;71;8,5;0;24;.;15;9
+2015;"Leucémie myéloïde aigue";28,5;158;23,5;0;160;.;97;63
+2015;"Leucémie myéloïde, chronique ou non précisé";15,5;114;9,0;0;115;.;78;37
+2015;Lèvre;2,4;48;1,0;0;750;.;476;274
+2015;"Lymphome Hodgkinien";5,1;154;2,0;0;1661;.;989;672
+2015;"Lymphome non Hodgkinien";8,1;317;3,0;0;6763;.;3860;2903
+2015;"Maladie immunoproliférative maligne";10,3;317;4,0;0;372;.;209;163
+2015;"Maladie myéloproliférative et syndrome myélodysplasique";13,4;239;8,0;0;949;.;571;378
+2015;Médiastin;9,6;132;6,0;0;476;.;288;188
+2015;"Mélanome de la peau";2,1;168;,0;0;9725;.;4940;4785
+2015;MÉSOTHÉLIOME;10,1;85;7,0;0;907;0,2;628;279
+2015;"METASTASES SANS PRIMITIF";7,3;131;4,0;0;1500;0,4;775;725
+2015;"Myélome multiple et tumeur maligne à plasmocytes";15,2;171;9,0;0;630;.;380;250
+2015;Nasopharynx;5,4;107;2,0;0;316;.;212;104
+2015;"Nerfs périphériques";9,1;183;5,0;0;192;.;97;95
+2015;OEIL;2,7;76;2,0;0;891;0,2;502;389
+2015;Oesophage;20,7;267;15,0;0;1744;.;1395;349
+2015;"ORGANES GENITAUX FEMININS";5,3;351;3,0;0;29121;7,4;1;29120
+2015;"Organes génitaux féminins sans précision";5,6;120;4,0;0;1113;.;.;1113
+2015;"ORGANES GENITAUX MASCULINS";6,6;243;5,0;0;35634;9,0;35633;1
+2015;"Organes génitaux masculins sans précision";3,5;35;2,0;0;147;.;147;.
+2015;Oropharynx;11,8;177;7,0;0;2212;.;1714;498
+2015;OS;9,1;137;5,0;0;2339;0,6;1323;1016
+2015;"Os, articulations, cartilage
+articulaire";;;;;2339;.;1323;1016
+2015;Ovaire;8,2;158;6,0;0;8082;.;.;8082
+2015;Pancréas;19,2;240;15,0;0;4143;.;2243;1900
+2015;PEAU;0,8;168;,0;0;87249;22,1;47406;39843
+2015;"Peau hors mélanome";0,6;168;,0;0;78472;.;43029;35443
+2015;Pénis;5,2;85;3,0;0;644;.;644;.
+2015;Péritoine-rétropéritoine;12,7;145;9,0;0;1382;.;484;898
+2015;"Pharynx, sans précision";19,3;156;14,0;0;149;.;126;23
+2015;Plèvre;10,3;53;7,0;0;471;.;294;177
+2015;Prostate;7,0;243;6,0;0;32240;.;32239;1
+2015;"Rectum - Jonction recto-sigmoïdienne";14,2;176;11,0;0;14104;.;8525;5579
+2015;Rein;8,4;203;7,0;0;11599;.;7864;3735
+2015;"SARCOME DE KAPOSI";8,1;91;2,0;0;97;0,0;64;33
+2015;SEIN;3,2;228;2,0;0;72464;18,3;669;71795
+2015;Surrénale;11,3;214;7,0;0;575;.;258;317
+2015;"SYSTÈME NERVEUX";12,3;322;8,0;0;6815;1,7;3834;2981
+2015;"Système nerveux central";12,4;322;8,0;0;6578;.;3710;2868
+2015;"Système nerveux sans précision";11,0;91;6,5;0;53;.;33;20
+2015;Testicule;2,7;96;2,0;0;2639;.;2639;.
+2015;Thyroïde;3,5;113;3,0;0;8943;.;2384;6559
+2015;"TISSUS MOUS, NCA";6,0;189;3,0;0;3632;0,9;1905;1727
+2015;TOTAL;6,4;416;3,0;0;;;;
+2015;"Trachée, Bronches, Poumon";10,7;266;8,0;0;18235;.;12200;6035
+2015;VADS;12,0;346;7,0;0;13878;3,5;10103;3775
+2015;"VADS sans précision";7,0;93;4,0;0;1242;.;854;388
+2015;Vagin;6,4;59;3,0;0;291;.;.;291
+2015;Vessie;5,7;200;3,0;0;44471;.;36075;8396
+2015;"Voies bilaires";18,0;147;14,0;0;1284;.;642;642
+2015;"VOIES URINAIRES";6,3;203;4,0;0;58130;14,7;45390;12740
+2015;"Voies urinaires hautes";7,3;79;6,0;0;2593;.;1900;693
+2015;Vulve;6,2;188;3,0;0;1274;.;.;1274
+2016;"Anus-Canal anal";9,4;179;2,0;0;1138;.;475;663
+2016;"APPAREIL DIGESTIF";13,6;278;10,0;0;67309;16,5;37953;29356
+2016;"Appareil digestif sans précision";9,0;170;6,0;0;2046;.;1205;841
+2016;"APPAREIL MANQUANT";9,3;24;2,0;2;2;0,0;2;.
+2016;"APPAREIL NON ATTRIBUABLE";8,8;194;5,0;0;3348;0,8;1939;1409
+2016;"APPAREIL RESPIRATOIRE ET AUTRES THORAX";10,1;229;8,0;0;20234;5,0;13279;6955
+2016;"Appareil respiratoire/thorax sans précision";7,9;106;6,0;0;666;.;356;310
+2016;"Appareil urinaire sans précision";9,0;154;6,0;0;1172;.;922;250
+2016;"Cavité orale";13,0;153;9,0;0;2614;.;1766;848
+2016;"Col utérus";1,9;129;,0;0;11498;.;1;11497
+2016;Colon;12,6;245;9,0;0;32872;.;17579;15293
+2016;"Colon-Rectum-Anus sans précision";15,7;152;11,5;0;191;.;82;109
+2016;"Corps utérus";6,1;200;5,0;0;7626;.;.;7626
+2016;Estomac;16,1;278;12,0;0;4691;.;2892;1799
+2016;Foie;14,3;161;10,0;0;2942;.;2216;726
+2016;"Foie et voies biliaires sans précision";11,7;116;8,0;0;261;.;126;135
+2016;"Fosses nasales, sinus, oreille moy/int";5,4;86;3,0;0;861;.;603;258
+2016;"Glande endocrine sans précision";9,3;132;6,0;0;746;.;322;424
+2016;"Glandes salivaires";4,9;112;3,5;0;1216;.;725;491
+2016;HEMATOLOGIE;9,0;288;3,0;0;11811;2,9;6880;4931
+2016;"Hématologie sans précision";8,9;85;4,0;0;454;.;245;209
+2016;Hypopharynx;19,9;219;16,0;0;1037;.;926;111
+2016;"Intestin grêle";15,3;127;11,0;0;1753;.;946;807
+2016;Langue;10,8;150;7,0;0;2236;.;1523;713
+2016;Larynx;20,8;219;17,0;0;2032;.;1774;258
+2016;"Leucémie aigue, autre";28,3;117;17,0;1;26;.;19;7
+2016;"Leucémie chronique ou non précisé, autre";11,8;115;6,0;0;125;.;74;51
+2016;"Leucémie lymphoïde aigue";37,1;288;31,0;0;80;.;49;31
+2016;"Leucémie lymphoïde, chronique ou non précisé";9,4;180;5,0;0;760;.;527;233
+2016;"Leucémie monocytaire aigue";52,3;108;45,0;21;6;.;5;1
+2016;"Leucémie monocytaire, chronique ou non précisé";18,1;88;13,0;2;44;.;29;15
+2016;"Leucémie myéloïde aigue";32,3;288;28,5;0;162;.;97;65
+2016;"Leucémie myéloïde, chronique ou non précisé";11,1;72;7,0;0;123;.;78;45
+2016;Lèvre;2,8;95;1,0;0;787;.;498;289
+2016;"Lymphome Hodgkinien";4,5;115;1,0;0;1597;.;885;712
+2016;"Lymphome non Hodgkinien";7,7;155;2,0;0;6733;.;3866;2867
+2016;"Maladie immunoproliférative maligne";9,3;120;5,0;0;361;.;198;163
+2016;"Maladie myéloproliférative et syndrome myélodysplasique";12,7;179;8,0;0;1068;.;665;403
+2016;Médiastin;7,5;141;5,0;0;433;.;252;181
+2016;"Mélanome de la peau";2,0;412;,0;0;9731;.;4936;4795
+2016;MÉSOTHÉLIOME;9,6;85;7,0;0;931;0,2;665;266
+2016;"METASTASES SANS PRIMITIF";7,0;83;4,0;0;1499;0,4;769;730
+2016;"Myélome multiple et tumeur maligne à plasmocytes";13,6;111;8,0;0;674;.;406;268
+2016;Nasopharynx;6,9;107;2,0;0;280;.;202;78
+2016;"Nerfs périphériques";8,2;126;5,0;0;157;.;72;85
+2016;OEIL;2,3;51;2,0;0;906;0,2;530;376
+2016;Oesophage;19,5;273;14,0;0;1820;.;1471;349
+2016;"ORGANES GENITAUX FEMININS";5,0;218;3,0;0;29319;7,2;2;29317
+2016;"Organes génitaux féminins sans précision";5,0;218;3,0;0;1116;.;.;1116
+2016;"ORGANES GENITAUX MASCULINS";6,4;294;5,0;0;36954;9,1;36953;1
+2016;"Organes génitaux masculins sans précision";5,2;65;2,0;0;142;.;142;.
+2016;Oropharynx;12,5;298;7,0;0;2127;.;1637;490
+2016;OS;9,2;164;5,0;0;2335;0,6;1332;1003
+2016;"Os, articulations, cartilage
+articulaire";;;;;2335;.;1332;1003
+2016;Ovaire;7,9;127;5,0;0;8257;.;1;8256
+2016;Pancréas;18,8;155;15,0;0;4018;.;2094;1924
+2016;PEAU;0,7;412;,0;0;90669;22,2;49532;41137
+2016;"Peau hors mélanome";0,6;412;,0;0;81858;.;45163;36695
+2016;Pénis;5,0;294;3,0;0;674;.;674;.
+2016;Péritoine-rétropéritoine;12,5;184;9,0;0;1355;.;447;908
+2016;"Pharynx, sans précision";20,1;219;13,0;0;126;.;105;21
+2016;Plèvre;10,1;97;7,0;0;467;.;293;174
+2016;Prostate;6,8;269;5,0;0;33570;.;33569;1
+2016;"Rectum - Jonction recto-sigmoïdienne";13,4;255;10,0;0;15757;.;9511;6246
+2016;Rein;8,2;152;7,0;0;12077;.;8288;3789
+2016;"SARCOME DE KAPOSI";5,9;68;2,0;0;99;0,0;72;27
+2016;SEIN;3,0;170;2,0;0;73032;17,9;653;72379
+2016;Surrénale;9,5;86;7,0;0;557;.;250;307
+2016;"SYSTÈME NERVEUX";11,4;236;8,0;0;7162;1,8;4044;3118
+2016;"Système nerveux central";11,5;236;8,0;0;6955;.;3941;3014
+2016;"Système nerveux sans précision";8,8;43;6,5;0;60;.;34;26
+2016;Testicule;2,6;104;1,0;0;2608;.;2608;.
+2016;Thyroïde;3,3;97;3,0;0;8532;.;2301;6231
+2016;"TISSUS MOUS, NCA";5,9;236;3,0;0;3686;0,9;1905;1781
+2016;TOTAL;6,1;412;3,0;0;;;;
+2016;"Trachée, Bronches, Poumon";10,3;229;8,0;0;18816;.;12476;6340
+2016;VADS;11,9;298;7,0;0;13553;3,3;9816;3737
+2016;"VADS sans précision";7,4;269;4,0;0;1237;.;848;389
+2016;Vagin;6,5;124;2,0;0;294;.;.;294
+2016;Vessie;5,4;214;3,0;0;45337;.;36929;8408
+2016;"Voies bilaires";16,6;147;13,0;0;1241;.;635;606
+2016;"VOIES URINAIRES";6,0;214;4,0;0;59578;14,6;46762;12816
+2016;"Voies urinaires hautes";7,2;84;6,0;0;2559;.;1883;676
+2016;Vulve;5,5;84;3,0;0;1285;.;.;1285

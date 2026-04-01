@@ -16,6 +16,8 @@ __status__ = "Research code"
 
 # ----------------------------------------------- Librairies  ---------------------------------------------
 
+from urllib import response
+
 from bs4 import BeautifulSoup
 import streamlit as st
 import pandas as pd
@@ -52,7 +54,7 @@ def search_url():
                 first_href = a_tag['href']
                 return first_href 
     else:
-        return None
+        return 'Activite_chirurgicale_en_cancerologie_par_localisation_tumorale.csv'
 
 url = search_url()
 
@@ -79,7 +81,7 @@ data = load_data(url)
 
 # ---------------------------------- Side Bar / Presentattion -------------------------------------
 
-st.sidebar.title(":hospital: Activité Chirurgicale en Cancérologie")
+st.sidebar.title("🏥 Activité Chirurgicale en Cancérologie")
 st.sidebar.markdown("---")
 
 st.sidebar.caption("#datavz2023efrei")
@@ -104,7 +106,7 @@ tab, tab1, tab2 = st.tabs(["Home", "Visualizations", "Find the Data"])
 
 with tab:
 
-    st.title(":syringe: Activité chirurgicale en cancérologie par localisation tumorale")
+    st.title("💉 Activité chirurgicale en cancérologie par localisation tumorale")
     st.write("Comment l'activité chirurgicale en cancérologie a-t-elle évoluée au cours des dernières années en France?")
     st.markdown('---')
 
@@ -144,7 +146,7 @@ with tab1:
 
     # ------------------------------------------ Intro ----------------------------------------
 
-    st.subheader(":stethoscope: Tendances en cancérologie par localisation tumorale")
+    st.subheader("🩺 Tendances en cancérologie par localisation tumorale")
 
     selected_localisation = st.selectbox('Sélectionnez une localisation tumorale', data['Loc'].unique())
     selected_year = st.selectbox('Sélectionnez une année', data['Ann'].unique())
@@ -186,7 +188,7 @@ with tab1:
     # ----------------------------------- Durée Séjour ----------------------------------------
 
     st.markdown("---")
-    st.subheader(":male-doctor: Evolution de la durée de séjour en chirurgie")
+    st.subheader("👨‍⚕️ Evolution de la durée de séjour en chirurgie")
 
     # ------------
 
@@ -212,7 +214,7 @@ with tab1:
 
     st.markdown("---")
     st.markdown('<br>', unsafe_allow_html=True)
-    st.subheader(":adhesive_bandage: Evolution du nombre de patients traités en chirurgie")
+    st.subheader("🩹 Evolution du nombre de patients traités en chirurgie")
  
     # ------------
 
@@ -263,7 +265,7 @@ with tab1:
 
 
     st.markdown("---")
-    st.subheader(":couple: Comparaison par genre")
+    st.subheader("👫 Comparaison par genre")
 
     # ------------
 
